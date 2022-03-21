@@ -1,0 +1,1 @@
+This is the !help command file, if you wish to add more to it you can, just follow the code setup in the __init__ file

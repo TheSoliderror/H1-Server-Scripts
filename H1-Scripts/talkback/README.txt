@@ -1,0 +1,2 @@
+To add more server pop ups, either add them to the Thanks.lua file, the __init__.lua file, or create a new lua file and 
+follow the formate of the Thanks.lua file and then add the incude in the __init__.lua file at the bottem.

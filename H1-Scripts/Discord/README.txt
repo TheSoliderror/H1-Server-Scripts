@@ -1,0 +1,1 @@
+Open the the __init__ in notepad/notepad++ and then change the 3rd line where it sats "YOURDISCORDCODE" to your discord code
